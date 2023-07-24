@@ -1,5 +1,5 @@
 ## goweb
-A simple web application demostrating depency injection in golang.
+A simple web application that demonstrate dependency injection in Go.
 
 ### Note
 Dependency Injection is a design pattern used to achieve loose coupling between components and Loosely coupled code refers to a design where the components or modules in a system have minimal dependencies on each other.
