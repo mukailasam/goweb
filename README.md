@@ -7,8 +7,8 @@ In a loosely coupled system, the components interact through well-defined interf
 
 
 ### Required
-Go
-sqlite3
+- Go
+- sqlite3
 
 ### Installation
 ```
